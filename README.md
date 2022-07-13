@@ -1,35 +1,51 @@
-# Hello-rails front-end
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hello rails front-end
 
-## Available Scripts
+> A react/redux APP that consumes the api from the backend to display a greeting message
 
-In the project directory, you can run:
+## Built With
 
-### `npm start`
+- React/Redux, HTML, SASS, Javascript, axios
 
-Runs the app in the development mode.\
-Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
+## Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To get a local copy up and running follow these simple example steps.
 
-### `npm run build`
+### Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+in your terminal, run 'https://github.com/lisandroseia/hello-rails-front-end.git'
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+in your terminal, run 'npm install'
 
-## Learn More
+### dependancies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+this projects needs [this repo](https://github.com/lisandroseia/hello-rails-back-end) running on port 3000 to be able to consume the api
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Usage
 
-## dependancies
+Run 'npm build' to have a local copy
+Run 'npm start' to open a local server
 
-this projects depends on [this database](https://github.com/lisandroseia/hello-rails-back-end)
+## Authors
+
+👤 **Lisandro Seia**
+
+- GitHub: [@lisandroseia](https://github.com/lisandroseia)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lisandro-seia-295120225/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
